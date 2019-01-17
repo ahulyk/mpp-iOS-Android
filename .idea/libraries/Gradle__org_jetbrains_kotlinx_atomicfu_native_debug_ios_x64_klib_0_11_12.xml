@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlinx:atomicfu-native_debug_ios_x64:klib:0.11.12" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-native_debug_ios_x64/0.11.12/9c57b0bb97c10b23ea6c38c52fcaebeb5459d0df/atomicfu-native.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-native_debug_ios_x64/0.11.12/e900d5bc16ad64cad75b6e18c7bb79ec8f6c2c22/atomicfu-native_debug_ios_x64-0.11.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
